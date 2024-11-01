@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: twitterwidget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-13 16:53+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: twitterwidget.php:79
+#: svn/tags/0.1/twitterwidget.php:79
+#: svn/trunk/twitterwidget.php:79
+msgid "Settings saved!"
+msgstr "Die Einstellungen wurden gespeichert!"
+
+#: twitterwidget.php:86
+#: svn/tags/0.1/twitterwidget.php:86
+#: svn/trunk/twitterwidget.php:86
+msgid "Warning! The cachedirectory is missing or not writeable!"
+msgstr "Das Cache-Verzeichnis existiert nicht oder ist schreibgesch&uuml;tzt!"
+
+#: twitterwidget.php:90
+#: svn/tags/0.1/twitterwidget.php:90
+#: svn/trunk/twitterwidget.php:90
+msgid "Title"
+msgstr "Titel"
+
+#: twitterwidget.php:91
+#: svn/tags/0.1/twitterwidget.php:91
+#: svn/trunk/twitterwidget.php:91
+msgid "Title is shown above the Widget. If left empty can break your layout in widget mode!"
+msgstr "Der Titel wird oberhalb des Widgets angezeigt."
+
+#: twitterwidget.php:95
+#: svn/tags/0.1/twitterwidget.php:95
+#: svn/trunk/twitterwidget.php:95
+msgid "Username"
+msgstr "Benutzername"
+
+#: twitterwidget.php:97
+#: svn/tags/0.1/twitterwidget.php:97
+#: svn/trunk/twitterwidget.php:97
+msgid "Your Twitter username!"
+msgstr "Dein Twitter-Benutzername!"
+
+#: twitterwidget.php:101
+#: svn/tags/0.1/twitterwidget.php:101
+#: svn/trunk/twitterwidget.php:101
+msgid "Limit"
+msgstr "Anzahl"
+
+#: twitterwidget.php:103
+#: svn/tags/0.1/twitterwidget.php:103
+#: svn/trunk/twitterwidget.php:103
+msgid "Max. number of tweets to display!"
+msgstr "Wie viele Tweets sollen angezeigt werden?"
+
+#: twitterwidget.php:107
+#: svn/tags/0.1/twitterwidget.php:107
+#: svn/trunk/twitterwidget.php:107
+msgid "Width"
+msgstr "Breite"
+
+#: twitterwidget.php:109
+#: svn/tags/0.1/twitterwidget.php:109
+#: svn/trunk/twitterwidget.php:109
+msgid "Width of widget."
+msgstr "Breite des Widgets."
+
+#: twitterwidget.php:113
+#: svn/tags/0.1/twitterwidget.php:113
+#: svn/trunk/twitterwidget.php:113
+msgid "Date format"
+msgstr "Datumsformat"
+
+#: twitterwidget.php:115
+#: svn/tags/0.1/twitterwidget.php:115
+#: svn/trunk/twitterwidget.php:115
+msgid "According to the php <a href=\"http://php.net/date\" target=\"_blank\">date()</a> function."
+msgstr "Alle Formatzeichen der <a href=\"http://php.net/date\" target=\"_blank\">date()</a>-Funktion sind &ouml;glich."
+
+#: twitterwidget.php:122
+#: svn/tags/0.1/twitterwidget.php:122
+#: svn/trunk/twitterwidget.php:122
+msgid "Link #hashtags to Twitter-Search?"
+msgstr "Verlinke #Hashtags in den Tweets?"
+
+#: twitterwidget.php:130
+#: svn/tags/0.1/twitterwidget.php:130
+#: svn/trunk/twitterwidget.php:130
+msgid "Make links clickable?"
+msgstr "Mache Links klickbar?"
+
+#: twitterwidget.php:138
+#, fuzzy
+msgid "Link @usernames to their Twitter-Page?"
+msgstr "Verlinke  @benutzernamen mit den passenden Twitterseiten?"
+
+#: twitterwidget.php:146
+#, fuzzy
+msgid "Link Tweets to their Twitter-Page?"
+msgstr "Verlinke die einzelnen Tweets auf die pasende Twitterseite?"
+
+#: twitterwidget.php:154
+#: svn/tags/0.1/twitterwidget.php:154
+#: svn/trunk/twitterwidget.php:154
+msgid "Set the link to relation nofollow?"
+msgstr "Alle Links auf rel=\"nofollow\" setzen?"
+
+#: twitterwidget.php:162
+#: svn/tags/0.1/twitterwidget.php:162
+#: svn/trunk/twitterwidget.php:162
+msgid "Open link in new window?"
+msgstr "Links im neuen Fenster &ouml;ffnen?"
+
+#: twitterwidget.php:170
+#: svn/tags/0.1/twitterwidget.php:170
+#: svn/trunk/twitterwidget.php:170
+msgid "Show a link to my twitter profile below the widget?"
+msgstr "Zeige einen Link auf mein Twitter Profil an?"
+
+#: twitterwidget.php:178
+#: svn/tags/0.1/twitterwidget.php:178
+#: svn/trunk/twitterwidget.php:178
+msgid "save"
+msgstr "speichern"
+
+#: twitterwidget.php:327
+#: #dev/1.php:93
+#: svn/tags/0.1/twitterwidget.php:327
+#: svn/trunk/twitterwidget.php:327
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: twitterwidget.php:330
+#: svn/tags/0.1/twitterwidget.php:330
+#: svn/trunk/twitterwidget.php:330
+#, php-format
+msgid "at %s"
+msgstr "am %s"
+
+#: twitterwidget.php:342
+#: svn/tags/0.1/twitterwidget.php:342
+#: svn/trunk/twitterwidget.php:342
+msgid "Twitter-Username missing! Please configure the plugin first!"
+msgstr "Twitter-Benutzername fehlt! Bitte angeben!"
+
+#: twitterwidget.php:367
+#: svn/tags/0.1/twitterwidget.php:367
+#: svn/trunk/twitterwidget.php:367
+msgid "view tweet"
+msgstr "Tweet anzeigen"
+
+#: twitterwidget.php:373
+#: svn/tags/0.1/twitterwidget.php:373
+#: svn/trunk/twitterwidget.php:373
+msgid "Follow me!"
+msgstr "folge mir!"
+
+#: #dev/1.php:95
+msgid "Y/m/d"
+msgstr "d.m.Y"
+
+#: #dev/1.php:97
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: #dev/1.php:97
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: #dev/1.php:236
+msgid "Twitter Widgets"
+msgstr ""
+
+#: #dev/1.php:237
+msgid "How many Twitter widgets would you like?"
+msgstr ""
+
+#: #dev/1.php:241
+msgid "Save"
+msgstr "speichern"
+
+#: #dev/1.php:255
+#, php-format
+msgid "Twitter #%d"
+msgstr ""
+
+#: #dev/2.php:75
+msgid "Account:"
+msgstr ""
+
+#: #dev/2.php:79
+msgid "Title:"
+msgstr "Titel"
+
+#: #dev/2.php:83
+msgid "Show:"
+msgstr "Zeige"
+
+#: svn/tags/0.1/twitterwidget.php:138
+#: svn/trunk/twitterwidget.php:138
+msgid "Link @usernames to there Twitter-Page?"
+msgstr "Verlinke  @benutzernamen mit den passenden Twitterseiten?"
+
+#: svn/tags/0.1/twitterwidget.php:146
+#: svn/trunk/twitterwidget.php:146
+msgid "Link Tweets to there Twitter-Page?"
+msgstr "Verlinke die einzelnen Tweets auf die pasende Twitterseite?"
+
+#~ msgid "Height"
+#~ msgstr "H&ouml;he"
+#~ msgid "Max. height of widget."
+#~ msgstr "Die Maximale H&ouml;he des Widgets."
+

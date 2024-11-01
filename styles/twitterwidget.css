@@ -1,0 +1,64 @@
+/**
+ * wrapper
+ * IMPORTANT: Do NOT add _width_ here, they are defined dynmically by the plugin!
+ */
+#twitterwidget {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+/* tweet wrapper */
+#twitterwidget div.tweet {
+  font-size: 12px;
+  color: #000;
+  margin-bottom: 10px;
+  background-color: #f7f7f7;
+  border-bottom: 1px dashed #ccc;
+}
+/* date */
+.twitterwidget-date {
+  font-weight: bold;
+}
+/* links */
+.twitterwidget-tweet-link {
+/*  color: #0000ff;*/
+}
+.twitterwidget-link-link {
+/*  color: #0000ff;*/
+}
+.twitterwidget-link-hashtag {
+/*  color: #0000ff !important;*/
+}
+.twitterwidget-link-user {
+/*  color: #0000ff;*/
+}
+/* follow me button */
+#twitterwidget strong {
+  display: block;
+  padding: 0;
+  text-align: center;
+}
+#twitterwidget strong a {
+  background: #fff url(../img/twitter.gif) left no-repeat;
+  padding-left: 24px !important;
+  font-family: Arial;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-style: normal;
+  color: #666;
+  font-weight: bold;
+  font-size: 16px;
+}
+/* footer */
+.twitterwidget-footer, .twitterwidget-footer a:link, .twitterwidget-footer a:active, .twitterwidget-footer a:visited, .twitterwidget-footer a:hover {
+  text-decoration: none !important;
+  background: none !important;
+  color: #aaa !important;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9px;
+}
